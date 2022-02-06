@@ -190,7 +190,7 @@ header ul a strong {
 }
 
 .menu {
-  background-color: white;
+  background-color: lightslategrey;
   position: sticky;
   top: 0px;
   max-width: 1500px;
