@@ -189,6 +189,25 @@ header ul a strong {
   color: #222;
 }
 
+.menu {
+  background-color: white;
+  position: sticky;
+  top: 0px;
+  max-width: 1500px;
+  height: 50px;
+  border-bottom: 1px solid black;
+}
+
+.menu-items {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  align-items: center;
+  height: 100%;
+}
+
 section {
   width: 500px;
   float: right;
