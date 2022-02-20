@@ -1,7 +1,12 @@
 const photos = [
   "assets/images/debug.jpg",
   "assets/images/photo.jpg",
-  "assets/images/writedown.jpg"
+  "assets/images/writedown.jpg",
+  "assets/images/piu.jpg",
+  "assets/images/riceball.jpg",
+  "assets/images/sit.jpg",
+  "assets/images/spring.jpg",
+  "assets/images/wallet.jpg",
 ];
 
 function changePhoto(){
