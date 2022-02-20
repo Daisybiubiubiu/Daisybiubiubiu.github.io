@@ -6,7 +6,7 @@ const photos = [
   "assets/images/riceball.jpg",
   "assets/images/sit.jpg",
   "assets/images/spring.jpg",
-  "assets/images/wallet.jpg",
+  "assets/images/wallet.jpg"
 ];
 
 function changePhoto(){
